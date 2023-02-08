@@ -22,3 +22,11 @@
   padding: 16px;
   font-size: 14px;
 }
+
+.buttonCheck {
+  background: transparent;
+}
+
+.buttonTrash {
+  background: transparent;
+}
